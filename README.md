@@ -20,3 +20,4 @@ Teléfono: ((texto en formato número de teléfono celular)
 
 Ubicar en la parte inferior dos botones, limpiar formulario y enviar. Al presionar enviar se muestra otra actividad con los datos ingresados
 ![Screenshot_20230620_183233](https://github.com/vales-alfre/Deber/assets/97996152/237bb478-04db-4b7f-8732-d0359d4775e8)
+![Screenshot_20230620_183311](https://github.com/vales-alfre/Deber/assets/97996152/bd26d910-cedb-490b-b9fa-ba6af335652e)
